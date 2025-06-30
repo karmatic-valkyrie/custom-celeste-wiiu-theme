@@ -9,3 +9,6 @@ Here's a preview for the theme:
 https://github.com/user-attachments/assets/a3c07b33-7128-4465-8699-fe9f0b3e6e82
 
 (The crunchy audio is from the less than optimal capture card I used, the actual audio sounds great.) 
+
+Disclaimer: 
+I do not own or claim to own any of the rights to the music and artwork used in this theme. The files included in this repository are only patches to the internal system files of the Wii U and do not contain any proprietary or copyrighted software. All rights and ownership of the material used in this custom theme go to their respective parties, including but not limited to Lena Raine, Maddy Makes Games, and others. Also I do not profit off of this theme, please for the love of all that is holy, don't sue me. 
