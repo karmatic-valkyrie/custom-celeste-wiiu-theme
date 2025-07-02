@@ -1,5 +1,4 @@
 # custom-celeste-wiiu-theme
-A custom Celeste theme I made for the Nintendo Wii U!
 
 To use this theme, you will need to use [RomPatcherJS](https://www.marcrobledo.com/RomPatcher.js) to patch *your* own copies of the system files. 
 I also highly recommend utilizing the [Aroma](https://aroma.foryour.cafe) environment and the StyleMii Aroma plugin for convenience's sake, but you can also use SDCafiine and the Tiramisu environment to load this theme as well. I have only tested this on a US region Wii U and I don't know how well it will work on other region consoles. The AllMessage.bps is very unlikely to work on any other region, but in theory the other files should work. 
