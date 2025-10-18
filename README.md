@@ -1,4 +1,4 @@
-# custom-celeste-wiiu-theme
+# Celeste Wii U Theme
 
 <img width="1280" height="720" alt="1000002078" src="https://github.com/user-attachments/assets/8f261dcb-b578-44ba-8202-39bd95f999cd" />
 <img width="854" height="480" alt="1000002077" src="https://github.com/user-attachments/assets/dead32e9-e1a7-426e-a207-740c67e21c34" />
